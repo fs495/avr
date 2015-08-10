@@ -1,5 +1,16 @@
 -*- outline -*-
 
+* ビルドに必要なファイル
+
+いずれもカレントディレクトリに(tar.gzは展開して)置いておく
+
+** CP932.TXT
+http://unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP932.TXT
+
+** intlfonts-1.2.1
+http://ftp.gnu.org/gnu/intlfonts/intlfonts-1.2.1.tar.gz
+
+
 * フォントイメージファイルフォーマットメモ
 
 AQM1248用に配置しなおした、フォントイメージファイル。
