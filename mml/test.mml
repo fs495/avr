@@ -1,0 +1,4 @@
+@track[wave] = A1/4 A2/2;
+
+A1 = t164o4l8 cdef<cdef>;
+A2 = q7 v14 cdef<cdef>;
