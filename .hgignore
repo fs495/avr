@@ -2,5 +2,6 @@
 .elf
 .hex
 .tab.rb
+pin_test1
 ref
 vusb*
